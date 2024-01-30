@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6787f91ebf1f3c2957c7b3495e864f1c64c7eb2e8479b941c985a17c11ff65b
-size 754
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Menu.unity
+    guid: ca0154f8d4ac5994583536c856f7e4f5
+  - enabled: 1
+    path: Assets/AtmosphericHouse/Scenes/House_worn_night.unity
+    guid: 7e84c87e3a530aa49a14e9f51bcfcd1d
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Equipment.unity
+    guid: 67f64381054c7c446954b6b1b649b152
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Main.unity
+    guid: bd6bcf7907654de4b866e07af11e2098
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
